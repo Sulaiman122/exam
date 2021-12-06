@@ -10,3 +10,4 @@
 9- (router/controller/todo) Error: change todo to task as in schema
 10- (db/index.js) Error: dotenv was not required
 11- (router/route/todo.js) put endpoint change to /todo/:id
+12- (index.js) cors should be cors()
